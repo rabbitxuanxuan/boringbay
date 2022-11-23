@@ -139,4 +139,11 @@
 		"description": "My Blog!",
 		"github_username": "yzl3014"
 	}
+	"23": {
+		"domain": "tuerxuan.com",
+		"icon": "https://photo.tuerxuan.me/image.png",
+		"name": "兔儿轩の小破站",
+		"description": "一只码兔~",
+		"github_username": "rabbitxuanxuan"
+	}
 }
